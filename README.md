@@ -4,12 +4,11 @@ This is a Python program that visualizes the process of solving a maze using var
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/maze-solver-visualizer.git`
-2. Install the required packages: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/username/maze-solver.git`
 
 ## Usage
 
-1. Navigate to the project directory: `cd maze-solver-visualizer`
+1. Navigate to the project directory: `cd maze-solver`
 2. Run the program: `python main.py`
 3. Select a maze file to load or generate a new maze
 4. Select an algorithm to solve the maze
